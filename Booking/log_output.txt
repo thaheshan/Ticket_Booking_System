@@ -1,0 +1,594 @@
+Event Name: torin
+Event Venue: su
+Max Ticket Capacity: 50
+Number of Customers: 25
+Number of Vendors: 2
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 25
+Event Name: ddv
+Event Venue: sdv
+Max Ticket Capacity: 50
+Number of Customers: 5
+Number of Vendors: 3
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 5
+Max Tickets Per Vendor: 16
+Event Name: dfgdf
+Event Venue: dsf
+Max Ticket Capacity: 50
+Number of Customers: 5
+Number of Vendors: 3
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 14
+Max Tickets Per Vendor: 16
+Event Name: sdvdf
+Event Venue: dsfvd
+Max Ticket Capacity: 50
+Number of Customers: 5
+Number of Vendors: 3
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 10
+Max Tickets Per Vendor: 16
+Event Name: spandhana
+Event Venue: bmich
+Max Ticket Capacity: 50
+Number of Customers: 5
+Number of Vendors: 5
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 10
+Max Tickets Per Vendor: 10
+Event Name: ff
+Event Venue: ghj
+Max Ticket Capacity: 50
+Number of Customers: 5
+Number of Vendors: 3
+Customer Purchase Rate: 800
+Vendor Input Rate: 900
+Max Tickets Per Customer: 5
+Max Tickets Per Vendor: 16
+Event Name: glo
+Event Venue: mnb
+Max Ticket Capacity: 50
+Number of Customers: 5
+Number of Vendors: 3
+Customer Purchase Rate: 50
+Vendor Input Rate: 60
+Max Tickets Per Customer: 5
+Max Tickets Per Vendor: 15
+Event Name: loku
+Event Venue: fgh
+Max Ticket Capacity: 50
+Number of Customers: 5
+Number of Vendors: 3
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 5
+Max Tickets Per Vendor: 16
+Event Name: spandhana
+Event Venue: bmich
+Max Ticket Capacity: 50
+Number of Customers: 5
+Number of Vendors: 3
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 10
+Max Tickets Per Vendor: 17
+Event Name: moki
+Event Venue: spolby
+Max Ticket Capacity: 100
+Number of Customers: 10
+Number of Vendors: 10
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 10
+Max Tickets Per Vendor: 10
+Event Name: spandha
+Event Venue: loca
+Max Ticket Capacity: 100
+Number of Customers: 10
+Number of Vendors: 10
+Customer Purchase Rate: 600
+Vendor Input Rate: 700
+Max Tickets Per Customer: 10
+Max Tickets Per Vendor: 10
+Event Name: 200
+Event Venue: locku
+Max Ticket Capacity: 200
+Number of Customers: 100
+Number of Vendors: 5
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 40
+Event Name: loki
+Event Venue: loku
+Max Ticket Capacity: 200
+Number of Customers: 45
+Number of Vendors: 2
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 4
+Max Tickets Per Vendor: 100
+Event Name: loki
+Event Venue: loku
+Max Ticket Capacity: 300
+Number of Customers: 100
+Number of Vendors: 5
+Customer Purchase Rate: 900
+Vendor Input Rate: 1100
+Max Tickets Per Customer: 3
+Max Tickets Per Vendor: 60
+Event Name: ffgbng
+Event Venue: dfbfgb
+Max Ticket Capacity: 100
+Number of Customers: 5
+Number of Vendors: 5
+Customer Purchase Rate: 600
+Vendor Input Rate: 700
+Max Tickets Per Customer: 20
+Max Tickets Per Vendor: 20
+Event Name: kmlk
+Event Venue: efr
+Max Ticket Capacity: 80
+Number of Customers: 4
+Number of Vendors: 4
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 20
+Max Tickets Per Vendor: 20
+Event Name: loku
+Event Venue: loki
+Max Ticket Capacity: 5
+Number of Customers: 5
+Number of Vendors: 1
+Customer Purchase Rate: 600
+Vendor Input Rate: 700
+Max Tickets Per Customer: 1
+Max Tickets Per Vendor: 5
+Event Name: loku
+Event Venue: loki
+Max Ticket Capacity: 865
+Number of Customers: 400
+Number of Vendors: 5
+Customer Purchase Rate: 700
+Vendor Input Rate: 900
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 170
+Event Name: loku
+Event Venue: mani
+Max Ticket Capacity: 5
+Number of Customers: 5
+Number of Vendors: 1
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 1
+Max Tickets Per Vendor: 5
+Event Name: loki
+Event Venue: nam
+Max Ticket Capacity: 100
+Number of Customers: 10
+Number of Vendors: 10
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 10
+Max Tickets Per Vendor: 10
+Event Name: loku
+Event Venue: loki
+Max Ticket Capacity: 50
+Number of Customers: 10
+Number of Vendors: 5
+Customer Purchase Rate: 700
+Vendor Input Rate: 900
+Max Tickets Per Customer: 5
+Max Tickets Per Vendor: 10
+Event Name: dvdf
+Event Venue: fdvfg
+Max Ticket Capacity: 50
+Number of Customers: 10
+Number of Vendors: 5
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 5
+Max Tickets Per Vendor: 10
+Event Name: fdvbd
+Event Venue: dfvf
+Max Ticket Capacity: 50
+Number of Customers: 10
+Number of Vendors: 5
+Customer Purchase Rate: 700
+Vendor Input Rate: 80
+Max Tickets Per Customer: 5
+Max Tickets Per Vendor: 10
+Event Name: ef
+Event Venue: fdd
+Max Ticket Capacity: 10
+Number of Customers: 2
+Number of Vendors: 2
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 5
+Max Tickets Per Vendor: 5
+Event Name: loku
+Event Venue: loki
+Max Ticket Capacity: 700
+Number of Customers: 5
+Number of Vendors: 5
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 140
+Max Tickets Per Vendor: 140
+Event Name: loki
+Event Venue: loku
+Max Ticket Capacity: 5
+Number of Customers: 2
+Number of Vendors: 1
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 5
+Event Name: loki
+Event Venue: loku
+Max Ticket Capacity: 200
+Number of Customers: 40
+Number of Vendors: 5
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 5
+Max Tickets Per Vendor: 40
+Event Name: loki
+Event Venue: loku
+Max Ticket Capacity: 10
+Number of Customers: 5
+Number of Vendors: 1
+Customer Purchase Rate: 600
+Vendor Input Rate: 700
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 10
+Event Name: fdvf
+Event Venue: ferrvr
+Max Ticket Capacity: 5
+Number of Customers: 2
+Number of Vendors: 1
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 5
+Event Name: r4g
+Event Venue: fb
+Max Ticket Capacity: 10
+Number of Customers: 5
+Number of Vendors: 1
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 10
+Event Name: fvr
+Event Venue: dvf
+Max Ticket Capacity: 50
+Number of Customers: 10
+Number of Vendors: 2
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 5
+Max Tickets Per Vendor: 25
+Event Name: ds
+Event Venue: dv
+Max Ticket Capacity: 5
+Number of Customers: 2
+Number of Vendors: 1
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 1
+Event Name: wefr
+Event Venue: ewfer
+Max Ticket Capacity: 5
+Number of Customers: 2
+Number of Vendors: 1
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 5
+Event Name: dsfd
+Event Venue: ds
+Max Ticket Capacity: 50
+Number of Customers: 10
+Number of Vendors: 5
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 5
+Max Tickets Per Vendor: 10
+Event Name: erg
+Event Venue: regr
+Max Ticket Capacity: 5
+Number of Customers: 2
+Number of Vendors: 1
+Customer Purchase Rate: 70
+Vendor Input Rate: 80
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 5
+Event Name: dvfd
+Event Venue: dvf
+Max Ticket Capacity: 50
+Number of Customers: 10
+Number of Vendors: 5
+Customer Purchase Rate: 70
+Vendor Input Rate: 90
+Max Tickets Per Customer: 5
+Max Tickets Per Vendor: 10
+Event Name: loku
+Event Venue: mi
+Max Ticket Capacity: 56
+Number of Customers: 14
+Number of Vendors: 4
+Customer Purchase Rate: 70
+Vendor Input Rate: 80
+Max Tickets Per Customer: 4
+Max Tickets Per Vendor: 14
+Event Name: fil
+Event Venue: dfg
+Max Ticket Capacity: 5
+Number of Customers: 2
+Number of Vendors: 1
+Customer Purchase Rate: 67
+Vendor Input Rate: 78
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 5
+Event Name: ergr
+Event Venue: ree
+Max Ticket Capacity: 10
+Number of Customers: 5
+Number of Vendors: 4
+Customer Purchase Rate: 70
+Vendor Input Rate: 80
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 3
+Event Name: r
+Event Venue: rv
+Max Ticket Capacity: 5
+Number of Customers: 2
+Number of Vendors: 1
+Customer Purchase Rate: 56
+Vendor Input Rate: 67
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 5
+Event Name: df
+Event Venue: fv
+Max Ticket Capacity: 5
+Number of Customers: 2
+Number of Vendors: 1
+Customer Purchase Rate: 67
+Vendor Input Rate: 78
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 5
+Event Name: se
+Event Venue: dc
+Max Ticket Capacity: 5
+Number of Customers: 2
+Number of Vendors: 1
+Customer Purchase Rate: 67
+Vendor Input Rate: 78
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 5
+Event Name: ewf
+Event Venue: ewf
+Max Ticket Capacity: 5
+Number of Customers: 2
+Number of Vendors: 1
+Customer Purchase Rate: 67
+Vendor Input Rate: 78
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 5
+Event Name: ee
+Event Venue: ef
+Max Ticket Capacity: 5
+Number of Customers: 2
+Number of Vendors: 1
+Customer Purchase Rate: 67
+Vendor Input Rate: 78
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 5
+Event Name: lo
+Event Venue: le
+Max Ticket Capacity: 5
+Number of Customers: 2
+Number of Vendors: 1
+Customer Purchase Rate: 67
+Vendor Input Rate: 78
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 5
+Event Name: dsc
+Event Venue: ewc
+Max Ticket Capacity: 5
+Number of Customers: 2
+Number of Vendors: 2
+Customer Purchase Rate: 56
+Vendor Input Rate: 67
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 2
+Event Name: df
+Event Venue: fv
+Max Ticket Capacity: 5
+Number of Customers: 2
+Number of Vendors: 1
+Customer Purchase Rate: 67
+Vendor Input Rate: 78
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 5
+Event Name: hj
+Event Venue: jk
+Max Ticket Capacity: 5
+Number of Customers: 2
+Number of Vendors: 1
+Customer Purchase Rate: 2
+Vendor Input Rate: 5
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 5
+Event Name: jknkj
+Event Venue: nmj
+Max Ticket Capacity: 5
+Number of Customers: 2
+Number of Vendors: 1
+Customer Purchase Rate: 67
+Vendor Input Rate: 78
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 5
+Event Name: efvf
+Event Venue: evf
+Max Ticket Capacity: 45
+Number of Customers: 3
+Number of Vendors: 1
+Customer Purchase Rate: 67
+Vendor Input Rate: 78
+Max Tickets Per Customer: 15
+Max Tickets Per Vendor: 45
+Event Name: e
+Event Venue: ef
+Max Ticket Capacity: 5
+Number of Customers: 2
+Number of Vendors: 1
+Customer Purchase Rate: 67
+Vendor Input Rate: 78
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 5
+Event Name: edwvf
+Event Venue: wd
+Max Ticket Capacity: 5
+Number of Customers: 2
+Number of Vendors: 1
+Customer Purchase Rate: 67
+Vendor Input Rate: 78
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 5
+Event Name: dsvfd
+Event Venue: ds
+Max Ticket Capacity: 5
+Number of Customers: 2
+Number of Vendors: 1
+Customer Purchase Rate: 2
+Vendor Input Rate: 5
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 5
+Event Name: f
+Event Venue: tytr
+Max Ticket Capacity: 5
+Number of Customers: 2
+Number of Vendors: 1
+Customer Purchase Rate: 67
+Vendor Input Rate: 78
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 5
+Event Name: vf
+Event Venue: ed
+Max Ticket Capacity: 50
+Number of Customers: 2
+Number of Vendors: 3
+Customer Purchase Rate: 67
+Vendor Input Rate: 78
+Max Tickets Per Customer: 9
+Max Tickets Per Vendor: 14
+Event Name: sdcvfd
+Event Venue: dcvf
+Max Ticket Capacity: 45
+Number of Customers: 56
+Number of Vendors: 56
+Customer Purchase Rate: 600
+Vendor Input Rate: 700
+Max Tickets Per Customer: 1
+Max Tickets Per Vendor: 1
+Event Name: loku
+Event Venue: loki
+Max Ticket Capacity: 10
+Number of VIP Customers: 2
+Number of Customers: 2
+Number of Vendors: 2
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 4
+Event Name: loki
+Event Venue: loku
+Max Ticket Capacity: 50
+Number of VIP Customers: 10
+Number of Customers: 5
+Number of Vendors: 2
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 3
+Max Tickets Per Vendor: 25
+Event Name: wd
+Event Venue: cev
+Max Ticket Capacity: 50
+Number of VIP Customers: 5
+Number of Customers: 6
+Number of Vendors: 1
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 8
+Max Tickets Per Vendor: 50
+Event Name: er
+Event Venue: 
+Max Ticket Capacity: 5
+Number of VIP Customers: 5
+Number of Customers: 5
+Number of Vendors: 5
+Customer Purchase Rate: 600
+Vendor Input Rate: 700
+Max Tickets Per Customer: 5
+Max Tickets Per Vendor: 5
+Event Name: dsb fvd
+Event Venue: asfsv
+Max Ticket Capacity: 50
+Number of VIP Customers: 5
+Number of Customers: 5
+Number of Vendors: 2
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 5
+Max Tickets Per Vendor: 25
+Event Name: sfdb
+Event Venue: dsg
+Max Ticket Capacity: 5
+Number of VIP Customers: 2
+Number of Customers: 2
+Number of Vendors: 1
+Customer Purchase Rate: 70
+Vendor Input Rate: 80
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 5
+Event Name: sgf
+Event Venue: dfh
+Max Ticket Capacity: 56
+Number of VIP Customers: 4
+Number of Customers: 5
+Number of Vendors: 2
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 5
+Max Tickets Per Vendor: 28
+Event Name: stagecraft
+Event Venue: nelumpokuna
+Max Ticket Capacity: 5
+Number of VIP Customers: 12
+Number of Customers: 6
+Number of Vendors: 1
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 4
+Max Tickets Per Vendor: 1
+Event Name: sav
+Event Venue: savs
+Max Ticket Capacity: 10
+Number of VIP Customers: 2
+Number of Customers: 2
+Number of Vendors: 1
+Customer Purchase Rate: 700
+Vendor Input Rate: 800
+Max Tickets Per Customer: 2
+Max Tickets Per Vendor: 10
